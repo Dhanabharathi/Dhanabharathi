@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin & MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- > philson.christe@gmail.com
-- Linkedin -- >   in/dhana-bharathi-407022286
+- Linkedin -- >   in/dhanabharathi
 - 
 
 <!---
